@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa9b3a38.css",
-    "main.js": "/static/js/main.a06caf62.js",
-    "static/js/453.28438411.chunk.js": "/static/js/453.28438411.chunk.js",
-    "static/media/blog.jpg": "/static/media/blog.1094462a8aacbb19a036.jpg",
-    "static/media/Group 3.svg": "/static/media/Group 3.38a865a7eb697d4892c406727ded2c55.svg",
-    "static/media/Avatar Placeholder.svg": "/static/media/Avatar Placeholder.e4254d45ba88e9df5b9517c44a8a2a10.svg",
-    "index.html": "/index.html",
-    "main.aa9b3a38.css.map": "/static/css/main.aa9b3a38.css.map",
-    "main.a06caf62.js.map": "/static/js/main.a06caf62.js.map",
-    "453.28438411.chunk.js.map": "/static/js/453.28438411.chunk.js.map"
+    "main.css": "/AcadBlogs/static/css/main.aa9b3a38.css",
+    "main.js": "/AcadBlogs/static/js/main.71ef0947.js",
+    "static/js/453.28438411.chunk.js": "/AcadBlogs/static/js/453.28438411.chunk.js",
+    "static/media/blog.jpg": "/AcadBlogs/static/media/blog.1094462a8aacbb19a036.jpg",
+    "static/media/Group 3.svg": "/AcadBlogs/static/media/Group 3.38a865a7eb697d4892c406727ded2c55.svg",
+    "static/media/Avatar Placeholder.svg": "/AcadBlogs/static/media/Avatar Placeholder.e4254d45ba88e9df5b9517c44a8a2a10.svg",
+    "index.html": "/AcadBlogs/index.html",
+    "main.aa9b3a38.css.map": "/AcadBlogs/static/css/main.aa9b3a38.css.map",
+    "main.71ef0947.js.map": "/AcadBlogs/static/js/main.71ef0947.js.map",
+    "453.28438411.chunk.js.map": "/AcadBlogs/static/js/453.28438411.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa9b3a38.css",
-    "static/js/main.a06caf62.js"
+    "static/js/main.71ef0947.js"
   ]
 }
